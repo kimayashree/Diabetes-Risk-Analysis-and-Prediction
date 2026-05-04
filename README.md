@@ -4,6 +4,8 @@
 This project focuses on analyzing a diabetes dataset to identify key health factors and understand patterns related to diabetes. It includes data preprocessing, visualization, statistical testing, and a basic machine learning model.
 
 🎯 Objectives
+
+
 Analyze medical dataset related to diabetes
 Perform Exploratory Data Analysis (EDA)
 Identify important features affecting diabetes
@@ -25,6 +27,8 @@ Insulin
 BMI
 Diabetes Pedigree Function
 Age
+
+
 🧹 Data Preprocessing
 Cleaned column names
 Checked missing values
